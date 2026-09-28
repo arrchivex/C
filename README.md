@@ -1,2 +1,2 @@
 # C
-The projects I build to learn C programming :)
+The projects I built to learn C programming :)
